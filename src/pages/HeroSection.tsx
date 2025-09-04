@@ -10,6 +10,7 @@ function HeroSection() {
     return (
         <div className="
             w-full
+            bg-gray-200
             p-4 rounded-xl my-6
             md:relative md:flex md:items-center md:justify-center
             md:w-2/5 md:p-0 md:m-4 md:mr-2 md:my-4"
