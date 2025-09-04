@@ -11,7 +11,7 @@ function HeroSection() {
         <div className="
             w-full
             p-4 rounded-xl my-6
-            md:bg-rock md:relative md:flex md:items-center md:justify-center
+            md:relative md:flex md:items-center md:justify-center
             md:w-2/5 md:p-0 md:m-4 md:mr-2 md:my-4"
         >
             <div className='h-full md:absolute md:w-[130%] md:ml-[30%] md:h-[40vw] md:overflow-clip'>
