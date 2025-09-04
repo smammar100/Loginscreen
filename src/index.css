@@ -1,7 +1,1 @@
 @import "tailwindcss";
-
-@theme {
-    --color-rock: oklch(95.18% 0.005 95.1);
-    --color-shrek: oklch(70.94% 0.133 126.38);
-    --color-shrok: oklch(67.94% 0.123 126.38);
-}
